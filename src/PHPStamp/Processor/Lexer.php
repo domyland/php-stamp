@@ -131,7 +131,7 @@ class Lexer extends AbstractLexer
     public function getInputBetweenPosition(int $position, int $length): string
     {
         // Get input without modification of original package
-        $reflectionClass = new \ReflectionClass('Doctrine\Common\Lexer\AbstractLexer');
+        $reflectionClass = new \ReflectionClass(AbstractLexer::class);
 
         $reflectionProperty = $reflectionClass->getProperty('input');
         $reflectionProperty->setAccessible(true);
