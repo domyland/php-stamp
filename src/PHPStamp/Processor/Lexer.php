@@ -2,8 +2,6 @@
 
 namespace PHPStamp\Processor;
 
-use Doctrine\Common\Lexer\AbstractLexer;
-
 /**
  * @extends AbstractLexer<int,string>
  */
