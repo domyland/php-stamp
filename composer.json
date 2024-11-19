@@ -11,7 +11,8 @@
         "ext-xsl": "*",
         "ext-zip": "*",
         "ext-dom": "*",
-        "shadz3rg/lexer": "^1.0"
+        "shadz3rg/lexer": "^1.0",
+        "ext-mbstring": "*"
     },
     "authors": [
         {
