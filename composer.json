@@ -10,8 +10,7 @@
         "ext-json": "*",
         "ext-xsl": "*",
         "ext-zip": "*",
-        "ext-dom": "*",
-        "shadz3rg/lexer": "^1.0"
+        "ext-dom": "*"
     },
     "authors": [
         {
