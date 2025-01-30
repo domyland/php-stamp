@@ -10,7 +10,8 @@
         "ext-json": "*",
         "ext-xsl": "*",
         "ext-zip": "*",
-        "ext-dom": "*"
+        "ext-dom": "*",
+        "ext-mbstring": "*"
     },
     "authors": [
         {
